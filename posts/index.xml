@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Kostas Stathoulopoulos</title>
-		<link>https://example.com/posts/</link>
+		<link>https://kstathou.github.io/posts/</link>
 		<description>Recent content in Posts on Kostas Stathoulopoulos</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
-		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://kstathou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Post Title</title>
-			<link>https://example.com/posts/post-title/</link>
+			<link>https://kstathou.github.io/posts/post-title/</link>
 			<pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://example.com/posts/post-title/</guid>
+			<guid>https://kstathou.github.io/posts/post-title/</guid>
 			<description>Adding an image ---images:- /static/img/test.</description>
 			<content type="html"><![CDATA[<p>Adding an image
 <img src="static/images/test.png" alt="my-image"></p>
@@ -28,10 +28,10 @@
 		
 		<item>
 			<title>How to set up a GPU instance for machine learning on AWS</title>
-			<link>https://example.com/posts/aws-gpu-ml/</link>
+			<link>https://kstathou.github.io/posts/aws-gpu-ml/</link>
 			<pubDate>Wed, 29 Apr 2020 11:42:44 +0100</pubDate>
 			
-			<guid>https://example.com/posts/aws-gpu-ml/</guid>
+			<guid>https://kstathou.github.io/posts/aws-gpu-ml/</guid>
 			<description>Read the full post on Medium.</description>
 			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c">Medium</a>.</p>
 ]]></content>
@@ -39,10 +39,10 @@
 		
 		<item>
 			<title>A walkthrough of Orion’s backend, data and design decisions</title>
-			<link>https://example.com/posts/orion-backend-data-design/</link>
+			<link>https://kstathou.github.io/posts/orion-backend-data-design/</link>
 			<pubDate>Mon, 16 Mar 2020 11:41:49 +0100</pubDate>
 			
-			<guid>https://example.com/posts/orion-backend-data-design/</guid>
+			<guid>https://kstathou.github.io/posts/orion-backend-data-design/</guid>
 			<description>Read the full post on Medium.</description>
 			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/a-walkthrough-of-orions-backend-data-and-design-decisions-f60c01b507aa">Medium</a>.</p>
 ]]></content>
@@ -50,10 +50,10 @@
 		
 		<item>
 			<title>Orion: An open-source tool for the science of science</title>
-			<link>https://example.com/posts/orion-open-source-tool-for-science-of-science/</link>
+			<link>https://kstathou.github.io/posts/orion-open-source-tool-for-science-of-science/</link>
 			<pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
 			
-			<guid>https://example.com/posts/orion-open-source-tool-for-science-of-science/</guid>
+			<guid>https://kstathou.github.io/posts/orion-open-source-tool-for-science-of-science/</guid>
 			<description>Read the full post on Medium.</description>
 			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/orion-an-open-source-tool-for-the-science-of-science-4259935f91d4">Medium</a>.</p>
 ]]></content>
@@ -61,10 +61,10 @@
 		
 		<item>
 			<title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
-			<link>https://example.com/posts/ic2s2-ssa-meetups/</link>
+			<link>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</link>
 			<pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
 			
-			<guid>https://example.com/posts/ic2s2-ssa-meetups/</guid>
+			<guid>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</guid>
 			<description>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.
 Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
 			<content type="html"><![CDATA[<p>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.</p>
@@ -122,10 +122,10 @@ Researchers have been studying the emergence of the knowledge economy and the so
 		
 		<item>
 			<title>What I learned during the IC2S2</title>
-			<link>https://example.com/posts/ic2s2-2019-summary/</link>
+			<link>https://kstathou.github.io/posts/ic2s2-2019-summary/</link>
 			<pubDate>Fri, 09 Aug 2019 14:20:39 +0100</pubDate>
 			
-			<guid>https://example.com/posts/ic2s2-2019-summary/</guid>
+			<guid>https://kstathou.github.io/posts/ic2s2-2019-summary/</guid>
 			<description>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.
 The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community.</description>
 			<content type="html"><![CDATA[<p>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.</p>

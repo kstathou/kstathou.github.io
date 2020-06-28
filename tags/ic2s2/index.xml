@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ic2s2 on Kostas Stathoulopoulos</title>
-    <link>https://example.com/tags/ic2s2/</link>
+    <link>https://kstathou.github.io/tags/ic2s2/</link>
     <description>Recent content in ic2s2 on Kostas Stathoulopoulos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 28 Aug 2019 14:31:39 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/ic2s2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kstathou.github.io/tags/ic2s2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
-      <link>https://example.com/posts/ic2s2-ssa-meetups/</link>
+      <link>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</link>
       <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
       
-      <guid>https://example.com/posts/ic2s2-ssa-meetups/</guid>
+      <guid>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</guid>
       <description>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.
 Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
     </item>
     
     <item>
       <title>What I learned during the IC2S2</title>
-      <link>https://example.com/posts/ic2s2-2019-summary/</link>
+      <link>https://kstathou.github.io/posts/ic2s2-2019-summary/</link>
       <pubDate>Fri, 09 Aug 2019 14:20:39 +0100</pubDate>
       
-      <guid>https://example.com/posts/ic2s2-2019-summary/</guid>
+      <guid>https://kstathou.github.io/posts/ic2s2-2019-summary/</guid>
       <description>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.
 The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community.</description>
     </item>
