@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Kostas Stathoulopoulos</title>
+    <link>https://kstathou.github.io/talks/</link>
+    <description>Recent content in Talks on Kostas Stathoulopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 15:53:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://kstathou.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IC2S2 | Tutorial on transformers, UMAP, Faiss and HDBSCAN</title>
+      <link>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</link>
+      <pubDate>Sun, 28 Jun 2020 15:53:00 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</guid>
+      <description>Tutorial for the IC2S2 on how to encode text data with transformers and use the embeddings in downstream tasks such as clustering with HDBSCAN, dimensionality reduction with UMAP and vector similarity with Faiss.
+Link to video</description>
+    </item>
+    
+    <item>
+      <title>IC2S2 | A large-scale analysis of the misinformation research landscape</title>
+      <link>https://kstathou.github.io/talks/ic2s2-misinformation/</link>
+      <pubDate>Fri, 19 Jun 2020 15:55:45 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/ic2s2-misinformation/</guid>
+      <description>Presentation at the IC2S2. I examined the geography and composition of misinformation research using publications from Microsoft Academic Graph. I collected the data using Orion, a research measurement and knowledge discovery tool I&amp;rsquo;ve been developing for Mozilla.
+Link to video</description>
+    </item>
+    
+    <item>
+      <title>SciNLP | Orion: An interactive information retrieval system for scientific knowledge discovery</title>
+      <link>https://kstathou.github.io/talks/scinlp-orion/</link>
+      <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/scinlp-orion/</guid>
+      <description>Short presentation on Orion, an interactive information retrieval system for scientific texts that I am developing for Mozilla.
+Link to video</description>
+    </item>
+    
+    <item>
+      <title>Data science at Nesta</title>
+      <link>https://kstathou.github.io/talks/nesta-data-science/</link>
+      <pubDate>Thu, 28 Jun 2018 15:27:33 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/nesta-data-science/</guid>
+      <description>Presentation for the general public on how we use data science at Nesta.
+Link to video</description>
+    </item>
+    
+  </channel>
+</rss>

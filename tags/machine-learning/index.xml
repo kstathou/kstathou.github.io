@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Kostas Stathoulopoulos</title>
+    <link>https://kstathou.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Kostas Stathoulopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 15:17:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://kstathou.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Highlights from the HAI Conference on AI Ethics, Policy and Governance</title>
+      <link>https://kstathou.github.io/posts/hai-notes/</link>
+      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/hai-notes/</guid>
+      <description>Last week, I attended the HAI Conference on AI Ethics, Policy and Governance, organised by the Institute for Human-Centered Artificial Intelligence at Stanford University. It was an exciting event that was packed with interesting talks and attracted almost a thousand people. In this blog, I summarise some of its highlights.
+AI and the economy Erik Brynjolfsson and Susan Ashley discussed the economics of AI.
+“Silicon Valley, we got a problem”, said Erik who focused on the topic’s macro-level picture; he highlighted the need for institutions to ensure that the benefits of AI are shared.</description>
+    </item>
+    
+  </channel>
+</rss>

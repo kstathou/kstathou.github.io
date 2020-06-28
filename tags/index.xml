@@ -7,26 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 15:48:49 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>demo</title>
-      <link>https://kstathou.github.io/tags/demo/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <title>information retrieval</title>
+      <link>https://kstathou.github.io/tags/information-retrieval/</link>
+      <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/tags/demo/</guid>
+      <guid>https://kstathou.github.io/tags/information-retrieval/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>image</title>
-      <link>https://kstathou.github.io/tags/image/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <title>nlp</title>
+      <link>https://kstathou.github.io/tags/nlp/</link>
+      <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/tags/image/</guid>
+      <guid>https://kstathou.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial intelligence</title>
+      <link>https://kstathou.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>https://kstathou.github.io/tags/ethics/</link>
+      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://kstathou.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -54,6 +81,24 @@
       <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
       
       <guid>https://kstathou.github.io/tags/node-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>https://kstathou.github.io/tags/data-science/</link>
+      <pubDate>Thu, 28 Jun 2018 15:27:33 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>https://kstathou.github.io/tags/presentation/</link>
+      <pubDate>Thu, 28 Jun 2018 15:27:33 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/tags/presentation/</guid>
       <description></description>
     </item>
     

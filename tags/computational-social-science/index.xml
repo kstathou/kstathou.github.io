@@ -22,5 +22,15 @@
 Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
     </item>
     
+    <item>
+      <title>What I learned during the IC2S2</title>
+      <link>https://kstathou.github.io/posts/ic2s2-2019-summary/</link>
+      <pubDate>Fri, 09 Aug 2019 14:20:39 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/ic2s2-2019-summary/</guid>
+      <description>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.
+The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community.</description>
+    </item>
+    
   </channel>
 </rss>

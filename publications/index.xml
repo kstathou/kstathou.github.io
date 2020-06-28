@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Kostas Stathoulopoulos</title>
+    <link>https://kstathou.github.io/publications/</link>
+    <description>Recent content in Publications on Kostas Stathoulopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 16:01:59 +0100</lastBuildDate>
+    
+	<atom:link href="https://kstathou.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
+      <link>https://kstathou.github.io/publications/ic2s2-ssa-meetups/</link>
+      <pubDate>Thu, 01 Aug 2019 16:01:59 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/ic2s2-ssa-meetups/</guid>
+      <description>In this work, we analyse the informal networking activity with tech and business content in Sub-Saharan Africa. We investigate its spatial distribution, how the extrovertedness of local communities correlates with international trade data and how the region’s technologically specialised communities compare to those of the European Union (EU). We show that networking activity occurs almost exclusively in the urban, most populous cities. Moreover, contrary to the previous work, we find a strong and statistically important correlation between the number of international links a country’s communities have and the total export value of its trade in services.</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis | Mapping without a map: Exploring the UK business landscape using unsupervised learning</title>
+      <link>https://kstathou.github.io/publications/mapping-without-a-map/</link>
+      <pubDate>Fri, 17 Aug 2018 16:07:35 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/mapping-without-a-map/</guid>
+      <description>That was my MSc Thesis project which I presented at the Data for Policy conference in 2017.
+Policy interventions have to be timely and tailored to specific sectors of the economic ecosystem to maximise their potential impact. We propose a system based on open data that offers policy makers two capabilities. First, it enables them to explore the digital and tech company space with high granularity through keywords, specific technologies or company names, and identify relevant organisations and those most similar to them.</description>
+    </item>
+    
+  </channel>
+</rss>

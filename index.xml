@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 15:53:00 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kstathou.github.io/publications/</link>
+      <pubDate>Sun, 28 Jun 2020 15:59:00 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IC2S2 | Tutorial on transformers, UMAP, Faiss and HDBSCAN</title>
+      <link>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</link>
+      <pubDate>Sun, 28 Jun 2020 15:53:00 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</guid>
+      <description>Tutorial for the IC2S2 on how to encode text data with transformers and use the embeddings in downstream tasks such as clustering with HDBSCAN, dimensionality reduction with UMAP and vector similarity with Faiss.
+Link to video</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://kstathou.github.io/talks/</link>
+      <pubDate>Sun, 28 Jun 2020 15:44:49 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -24,12 +52,23 @@ I am currently working on Orion, a knowledge discovery and research measurement 
     </item>
     
     <item>
-      <title>Post Title</title>
-      <link>https://kstathou.github.io/posts/post-title/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <title>IC2S2 | A large-scale analysis of the misinformation research landscape</title>
+      <link>https://kstathou.github.io/talks/ic2s2-misinformation/</link>
+      <pubDate>Fri, 19 Jun 2020 15:55:45 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/posts/post-title/</guid>
-      <description>Adding an image ---images:- /static/img/test.</description>
+      <guid>https://kstathou.github.io/talks/ic2s2-misinformation/</guid>
+      <description>Presentation at the IC2S2. I examined the geography and composition of misinformation research using publications from Microsoft Academic Graph. I collected the data using Orion, a research measurement and knowledge discovery tool I&amp;rsquo;ve been developing for Mozilla.
+Link to video</description>
+    </item>
+    
+    <item>
+      <title>SciNLP | Orion: An interactive information retrieval system for scientific knowledge discovery</title>
+      <link>https://kstathou.github.io/talks/scinlp-orion/</link>
+      <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/scinlp-orion/</guid>
+      <description>Short presentation on Orion, an interactive information retrieval system for scientific texts that I am developing for Mozilla.
+Link to video</description>
     </item>
     
     <item>
@@ -60,23 +99,14 @@ I am currently working on Orion, a knowledge discovery and research measurement 
     </item>
     
     <item>
-      <title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
-      <link>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</link>
-      <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
+      <title>Highlights from the HAI Conference on AI Ethics, Policy and Governance</title>
+      <link>https://kstathou.github.io/posts/hai-notes/</link>
+      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</guid>
-      <description>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.
-Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
-    </item>
-    
-    <item>
-      <title>What I learned during the IC2S2</title>
-      <link>https://kstathou.github.io/posts/ic2s2-2019-summary/</link>
-      <pubDate>Fri, 09 Aug 2019 14:20:39 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/posts/ic2s2-2019-summary/</guid>
-      <description>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.
-The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community.</description>
+      <guid>https://kstathou.github.io/posts/hai-notes/</guid>
+      <description>Last week, I attended the HAI Conference on AI Ethics, Policy and Governance, organised by the Institute for Human-Centered Artificial Intelligence at Stanford University. It was an exciting event that was packed with interesting talks and attracted almost a thousand people. In this blog, I summarise some of its highlights.
+AI and the economy Erik Brynjolfsson and Susan Ashley discussed the economics of AI.
+“Silicon Valley, we got a problem”, said Erik who focused on the topic’s macro-level picture; he highlighted the need for institutions to ensure that the benefits of AI are shared.</description>
     </item>
     
   </channel>

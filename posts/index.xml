@@ -6,25 +6,8 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 29 Apr 2020 11:42:44 +0100</lastBuildDate>
 		<atom:link href="https://kstathou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Post Title</title>
-			<link>https://kstathou.github.io/posts/post-title/</link>
-			<pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-			
-			<guid>https://kstathou.github.io/posts/post-title/</guid>
-			<description>Adding an image ---images:- /static/img/test.</description>
-			<content type="html"><![CDATA[<p>Adding an image
-<img src="static/images/test.png" alt="my-image"></p>
-<p><img src="/test.png" alt="image alt text"></p>
-<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml">---<span class="w">
-</span><span class="w"></span><span class="k">images</span><span class="p">:</span><span class="w">
-</span><span class="w">  </span>- /static/img/test.png<span class="w">
-</span><span class="w"></span>---<span class="w">
-</span></code></pre></div>]]></content>
-		</item>
 		
 		<item>
 			<title>How to set up a GPU instance for machine learning on AWS</title>
@@ -60,6 +43,124 @@
 		</item>
 		
 		<item>
+			<title>Highlights from the HAI Conference on AI Ethics, Policy and Governance</title>
+			<link>https://kstathou.github.io/posts/hai-notes/</link>
+			<pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
+			
+			<guid>https://kstathou.github.io/posts/hai-notes/</guid>
+			<description>Last week, I attended the HAI Conference on AI Ethics, Policy and Governance, organised by the Institute for Human-Centered Artificial Intelligence at Stanford University. It was an exciting event that was packed with interesting talks and attracted almost a thousand people. In this blog, I summarise some of its highlights.
+AI and the economy Erik Brynjolfsson and Susan Ashley discussed the economics of AI.
+“Silicon Valley, we got a problem”, said Erik who focused on the topic’s macro-level picture; he highlighted the need for institutions to ensure that the benefits of AI are shared.</description>
+			<content type="html"><![CDATA[<p>Last week, I attended the <a href="https://hai.stanford.edu/events/2019-fall-conference/agenda">HAI Conference on AI Ethics, Policy and Governance</a>, organised by the Institute for Human-Centered Artificial Intelligence at Stanford University. It was an exciting event that was packed with interesting talks and attracted almost a thousand people. In this blog, I summarise some of its highlights.</p>
+<h1 id="ai-and-the-economy-">AI and the economy</h1>
+<p><strong>Erik Brynjolfsson</strong> and <strong>Susan Ashley</strong> discussed the economics of AI.</p>
+<p>“<em>Silicon Valley, we got a problem</em>”, said Erik who focused on the topic’s macro-level picture; he highlighted the need for institutions to ensure that the benefits of AI are shared.</p>
+<p>“<em>The goal should not more and better tech but the shared prosperity</em>”</p>
+<p>He also discussed that even though we live in the age of data and information, we have worse measurements of the economy. For example, we do not measure intangible assets such as the value of Wikipedia.</p>
+<p><strong>Susan Ashley</strong> took a micro-level perspective and discussed that the adoption of machine learning by organisations has a “slow” and “fast” mode:</p>
+<ul>
+<li><strong>Fast</strong>: Automating the easy tasks.</li>
+<li><strong>Slow</strong>: Reconfiguring how companies work to accommodate the use of machine learning. They need time to collect data, develop a cloud infrastructure and train their personnel.</li>
+</ul>
+<p>Erik Brynjolfsson added that it is easier for companies that have the benefit of scale to internalise the cost of the machine learning transformation. However, they might also be victims of inertia (see Nokia, IBM).</p>
+<p>They both discussed that new technology has the potential to transform core sectors such as health, education and transportation. It can enrich education’s content, make healthcare more accurate and transportation faster. It is critical though to remember that “when you have the power to change the world, your values matter”.</p>
+<h1 id="regulating-big-tech-">Regulating Big Tech</h1>
+<p><strong>Eric Schmidt</strong> and <strong>Marietje Schaake</strong> clashed on big tech, innovation and regulation.</p>
+<p><strong>Eric Schmidt</strong> stated that AI provides new ways to solve problems in variety of disciplines such as physics and chemistry. He noted that we move from a simple AI stack to a more complex one and that has implications. Complex AI models make the coordination between humans and machines difficult and thus, we need new interfaces to facilitate their coexistence.</p>
+<p>Eric was very excited with the strides that AlphaBet and its subsidies have made in deep learning and reinforcement learning. For example, he mentioned how Google is collecting data, normalising them with GANs and then uses reinforcement learning to find a universal function that’s useful in downstream tasks.</p>
+<p>He also underlined some issues and open questions in AI:</p>
+<ul>
+<li>How will end-users be in control of an AI system?</li>
+<li>Progress in critical domains such as health is throttled by the limited data availability. Eric argued that this is due to privacy concerns but questioned them. “Wouldn’t you give all your data to save a life?”</li>
+<li>A better and more complete understanding of the bias in people, systems and models is needed.</li>
+<li>“<em>The China Problem</em>”: US needs access to China’s talent so we got to figure out how to work with them.</li>
+<li>Lack of ground rules in the development of AI. Eric became quite controversial, stating that the “<em>liberal, western values</em>” are the ones that should “<em>win</em>” when regulating AI.</li>
+</ul>
+<p><strong>Marietje Schaake</strong> highlighted that regulation is at the top of the AI agenda. The main question is <strong>how</strong> and <strong>who</strong> sets the rules. She also highlighted the need for new regulatory frameworks, with human rights being a suitable basis for them.</p>
+<p>She noted that we should not innovate for the sake of it and that we should care more about democracy. This was mainly a comment on big tech platforms, their irresponsible way of innovating (move fast and break things) and their ability to influence the outcome of elections. She didn’t explicitly name them but think of Facebook, Twitter and YouTube.</p>
+<p>As in the previous session, Marietje underlined that the important question is not who will dominate AI but what values they would be carrying. She also discussed that we need regulation in order to create benchmarks in the development of AI and keep others, such as China, accountable to them. Otherwise, AI could potentially be an accelerator of top-down control.</p>
+<p>She also mentioned that governments have a serious information deficit to companies while they lack the tools needed to catch up. To make matters worse, the gap becomes wider due to the experience that companies have in data processing and analysis which enables them to look at challenges with different lenses. This leads to many big data tasks, such as the digitisation of public services, being done by the private sector, leading to the privatisation of the government.</p>
+<blockquote>
+<p>If trade secrets stand between us and transparency, this has to change.</p>
+</blockquote>
+<p>She also replied to Eric’s cautionary note that governments ought not to regulate AI because it would throttle innovation by saying that it’s never too early to regulate and that lawmakers have to be more proactive. Furthermore, she highlighted that “great power” means “great responsibility, or at least modesty” (Eric Schmidt was quite arrogant). She also added that companies have to treat internet users as citizens and not data points.</p>
+<p>Finally, Marietje concluded that when technology could potentially be harmful, there must be:</p>
+<ul>
+<li>Systematic impact assessments</li>
+<li>Time to examine the technology before deployment  (as we do with drugs).</li>
+</ul>
+<h1 id="the-coded-gaze-">The Coded Gaze</h1>
+<p><strong>Joy Buolamwini</strong> gave a powerful talk on algorithmic bias and discussed her research on auditing facial analysis systems.</p>
+<p>She explained why computer vision software is biased against people of colour and women. When collecting a training set for such models, researchers commonly crawl big databases with images and use a face detection algorithm to store only those with faces. However, these algorithms have serious difficulties in identifying women and people of colour and thus, the resulting training set is very imbalanced, favouring white - and usually male - faces.</p>
+<p>She highlighted that we should question the performance on gold standard datasets because these benchmarks are skewed, especially when examining intersectionality. To test her concerns and raise the issue to companies developing such tools, she created a <a href="https://www.media.mit.edu/projects/gender-shades/faq/">dataset</a> that is balanced on gender and skin colour.</p>
+<p>In detail, she examined how commonly used face detection systems from Amazon, IBM, Face++, Microsoft and others perform not only on the aggregate level but also when splitting the test data by gender, colour and their intersection. She found that all of them perform significantly worse in detecting black women while their accuracy on images of white men is close to 100%.</p>
+<blockquote>
+<p>This is a reflection of systemic inequalities that are embedded in the training data.</p>
+</blockquote>
+<p>She also argued that companies are doing “<em>moral outsourcing</em>”; they’re developing technologies and let the users deal with their flaws and biases. She added that although improving the accuracy of these systems is important, that will not stop the abuse; making them more accurate might increase the number of cases where they are used to actively discriminate against underrepresented groups.</p>
+<p>Lastly, Joy argued that the following things could level the playing field:</p>
+<ul>
+<li><strong>Actionable auditing</strong>: White hat developers that interrogate ML systems and report their biases.</li>
+<li><strong>Diversity</strong>: Increase the diversity in ML teams.</li>
+<li><strong>Advocacy</strong>: Companies developing facial analysis technologies to sign the <a href="https://www.safefacepledge.org/">Safe Face Pledge</a>.</li>
+<li><strong>Transparency</strong>: Data transparency to enable researchers to evaluate the suitability of a model for a use case.</li>
+<li><strong>Participatory AI</strong>: Ethics frameworks to be set by lawmakers, companies and community review boards.</li>
+<li><strong>Taxes</strong>: An algorithmic accountability tax to fund public research.</li>
+</ul>
+<h1 id="ai-and-geopolitics-">AI and Geopolitics</h1>
+<p><strong>Mykel Kochenderfer</strong>, <strong>Matthew Daniels</strong>, <strong>Colin Kahl</strong>, and <strong>Brad</strong> discussed how develops and deploys AI systems and how they could potentially be used by adversaries. The conversation was moderated by <strong>Amy Zegart</strong>.</p>
+<p><strong>Mykel</strong> and <strong>Matthew</strong> argued that we tend to overestimate the short-term and underestimate the long-term benefits of ML. Due to this hype, ML is being adopted without considering how well it embeds with existing norms and systems. For example, we haven’t discussed extensively how to reorganise human labour while the current internet infrastructure and cybersecurity protocols were developed in a pre-ML era. This might not look dangerous now, but it could be in the near future; we need better mechanisms to examine the progress in ML and the risks it entails.</p>
+<p><strong>Colin</strong> and <strong>Brad</strong> picked up the discussion, with Colin arguing that AI and geopolitics should be viewed with economic, military and ideological lenses. The most interesting one was the last; AI adoption in western societies and its side-effects (for example, large scale automation of the workforce) might cause divisions in democracy while AI can further empower authoritative regimes (for example, computer vision systems used for surveillance by the Chinese government).</p>
+<p>Moreover, Colin made a compelling comparison between AI and nuclear weapons based on the concept of deterrence stability (ie don’t hit me because I’ll hit back). He argued that the lack of a deterrence stability mechanism for AI in a geopolitically unstable world might lead to crises where nations fear that other nations have developed some form of advanced military AI. These fears could escalate existing tensions, lead to an accident or prompt nations to hit first in order to neutralise the enemy.</p>
+<p>Brad commented that the US government is not focused on using AI to develop autonomous weapons. Its main purposes are surveillance, such as project Maven, command and control and logistics.</p>
+<blockquote>
+<p>Intelligence and information give you the advantage in preventing wars.</p>
+</blockquote>
+<p>Amy summarised the discussion by highlighting four cases where AI could be used by adversaries:</p>
+<ul>
+<li>Destabilisation</li>
+<li>Deception</li>
+<li>Distortion</li>
+<li>Decision</li>
+</ul>
+<p>I think <a href="https://www.tandfonline.com/doi/pdf/10.1080/00396338.2018.1518374?needAccess=true">this paper</a> provides a good description of Amy’s four Ds and summarises well many of the points made during the panel discussion.</p>
+<h1 id="ai-elections-and-disinformation-">AI, Elections and Disinformation</h1>
+<p><strong>Nate Persily</strong>, <strong>Renee DiResta</strong>, <strong>Andy Grotto</strong> discussed the impact of AI on the elections and other influence campaigns. The conversation was moderated by <strong>Michael McFaul</strong>.</p>
+<p><strong>Nate</strong> opened the discussion by arguing that we now live in democracies without a basis on what’s true. The <strong>volume</strong>, <strong>variety</strong> and <strong>velocity</strong> of data as well as the social media platforms and the technologies they use, affect the political debate and create an elections ecosystem that privileges <strong>virality</strong> which is driven mainly by <strong>rageful</strong> and <strong>hateful</strong> content.</p>
+<p>Moreover, he mentioned that <strong>anonymity</strong> online has two main disadvantages:</p>
+<ul>
+<li>Increases the number of bots (Note: Bots are a spectrum).</li>
+<li>Increases the number of unaccountable opinions.</li>
+</ul>
+<p>He also highlighted that when examining disinformation, we should consider two different groups; the <strong>messenger</strong> (social media platforms) and the <strong>message</strong> (actors and content). In many disinformation campaigns, AI is being used to identify and target echo chambers in social media platforms.</p>
+<p>Lastly, Nate questioned why the rules of political debate are being set by big tech companies, giving the example of Facebook’s Nick Clegg who announced to the EU how FB would act during EU’s 2019 parliamentary elections.</p>
+<p><strong>Renee</strong> argued that election interference is a discrete challenge with tangible impact, however, the main goal of disinformation campaigns in <strong>consensus building</strong>. She described how the <a href="https://comprop.oii.ox.ac.uk/research/ira-political-polarization/">Internet Research Agency</a>, a Russian company engaged in online influence operations, used an expansive cross-platform media mirage to target left-leaning and right-leaning communities as well as black Americans in order to disinform them and create an internalised message within their echo chambers. And that highlights the main difficulty for companies, researchers and lawmakers; <strong>how do you filter a message that has been internalised and considered truthful?</strong></p>
+<p>Renee also explained that the influence operations should be thought of as a process with some key parts:</p>
+<ul>
+<li><strong>Actors</strong>: Sometimes bots but mostly non-bots.</li>
+<li><strong>Content</strong>:
+<ul>
+<li>Participatory propaganda through easily sharable content such as memes. That is a good read.</li>
+<li>Long-form propaganda.</li>
+</ul>
+</li>
+<li><strong>Dissemination</strong>: Platforms and social media.</li>
+</ul>
+<p>Renee noted that artificial intelligence makes the challenges posed by disinformation harder to solve. Firstly, <strong>AI reduces the cost of generating content</strong>. She focused on two main applications, DeepFakes (images and audio) and text generation. Regarding the former, their cost of deployment is quite high with the audio ones being a bit easier to develop. Regarding text generation, it’s fairly easy to detect these messages because the generative models have been trained on small datasets or contain a lot of non-standard characters. However, both of these could be dangerous in the near future. Algorithmic advancements reduce their cost and improve their quality, meaning that they could have the potential to shape people’s perception at scale.</p>
+<p>Secondly, <strong>AI changes the way that malicious messages are being distributed</strong>. It is becoming easier to generate fake accounts, a trend that will only accelerate when GANs can be deployed at scale. Moreover, other machine learning methods enable better targeting of malicious messages, very much aligned with what Nate mentioned during his talk. Renee concluded that enabling technologies favour the aggressor and in this case, actors orchestrating influence campaigns.</p>
+<p>Lastly, Andy discussed the role of governments and they have to break down the problem and craft specific policy interventions.</p>
+<p>Michael asked the panel some important questions:</p>
+<p><strong>Why not banning political ads on Facebook?</strong> Andy commented that the US government (2008-2016) had a sense of competence and good faith on big tech which they also lobbied hard against political action. Renee added that many of the political ads are run by individuals and banning them would violate free expression.</p>
+<blockquote>
+<p>One man’s terrorist is another man’s freedom fighter.</p>
+</blockquote>
+<p>Moreover, she argued that in a highly polarised world, it is difficult to distinguish what’s political and what’s not. Who has the right to decide?</p>
+<p><strong>Why do we allow companies to release bad products?</strong> The panel replied that the main reason is the Terms &amp; Conditions where it is stated that consumers accept the product as it is.</p>
+<p><strong>What should big tech and governments do to combat disinformation?</strong> The panel argued that creating data trusts to enable the research of this topic would be a potential solution.</p>
+]]></content>
+		</item>
+		
+		<item>
 			<title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
 			<link>https://kstathou.github.io/posts/ic2s2-ssa-meetups/</link>
 			<pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
@@ -69,7 +170,7 @@
 Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
 			<content type="html"><![CDATA[<p>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.</p>
 <p>Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa. The results are not promising. Even though there are over 900 million mobile phone users and 350 million people connected to the Internet, the increased connectivity has not been as transformational as it was thought to be. For example, the Internet did not make digital entrepreneurship in SSA more inclusive. It also still remains spatially clustered, mainly happening in the most populous cities, and confined within the educated population. Furthermore, the creation of digital content, measured by collaborative software development and Internet domain registrations, is geographically uneven within the continent while the gap with the rest of the world is widening. Connectivity could be an important component for the emergence of the knowledge economy in Sub-Saharan Africa but not an enabling factor.</p>
-<p>An understudied area is the informal networking activity with tech and business content in Sub-Saharan Africa. In a <a href="https://drive.google.com/file/d/10kaiD5KPaIokuq62M1Jb__rwEOzzXe9z/view">poster</a> presented at the IC2S2 (<a href="https://kstathou.github.io/posts/2019/08/ic2s2-summary/">read a summary of the conference here</a>), we investigated its spatial distribution, how the links of local communities correlate with international trade data and how the region’s technologically specialised communities compare to those of the European Union (EU).</p>
+<p>An understudied area is the informal networking activity with tech and business content in Sub-Saharan Africa. In a <a href="https://drive.google.com/file/d/10kaiD5KPaIokuq62M1Jb__rwEOzzXe9z/view">poster</a> presented at the IC2S2 (<a href="https://kstathou.github.io/posts/ic2s2-2019-summary/">read a summary of the conference here</a>), we investigated its spatial distribution, how the links of local communities correlate with international trade data and how the region’s technologically specialised communities compare to those of the European Union (EU).</p>
 <h1 id="main-findings">Main findings</h1>
 <ul>
 <li>In all SSA countries but Cameroon, more than half of the Meetup groups are located in the three most populous cities of each country.</li>
