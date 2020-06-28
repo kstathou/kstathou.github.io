@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kostas Stathoulopoulos</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Kostas Stathoulopoulos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>demo</title>
+      <link>https://example.com/tags/demo/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image</title>
+      <link>https://example.com/tags/image/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational social science</title>
+      <link>https://example.com/tags/computational-social-science/</link>
+      <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
+      
+      <guid>https://example.com/tags/computational-social-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ic2s2</title>
+      <link>https://example.com/tags/ic2s2/</link>
+      <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
+      
+      <guid>https://example.com/tags/ic2s2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node embeddings</title>
+      <link>https://example.com/tags/node-embeddings/</link>
+      <pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
+      
+      <guid>https://example.com/tags/node-embeddings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

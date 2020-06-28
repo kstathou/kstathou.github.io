@@ -1,0 +1,241 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Kostas Stathoulopoulos</title>
+		<link>https://example.com/posts/</link>
+		<description>Recent content in Posts on Kostas Stathoulopoulos</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Post Title</title>
+			<link>https://example.com/posts/post-title/</link>
+			<pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://example.com/posts/post-title/</guid>
+			<description>Adding an image ---images:- /static/img/test.</description>
+			<content type="html"><![CDATA[<p>Adding an image
+<img src="static/images/test.png" alt="my-image"></p>
+<p><img src="/test.png" alt="image alt text"></p>
+<div class="highlight"><pre class="chroma"><code class="language-yaml" data-lang="yaml">---<span class="w">
+</span><span class="w"></span><span class="k">images</span><span class="p">:</span><span class="w">
+</span><span class="w">  </span>- /static/img/test.png<span class="w">
+</span><span class="w"></span>---<span class="w">
+</span></code></pre></div>]]></content>
+		</item>
+		
+		<item>
+			<title>How to set up a GPU instance for machine learning on AWS</title>
+			<link>https://example.com/posts/aws-gpu-ml/</link>
+			<pubDate>Wed, 29 Apr 2020 11:42:44 +0100</pubDate>
+			
+			<guid>https://example.com/posts/aws-gpu-ml/</guid>
+			<description>Read the full post on Medium.</description>
+			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c">Medium</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>A walkthrough of Orion’s backend, data and design decisions</title>
+			<link>https://example.com/posts/orion-backend-data-design/</link>
+			<pubDate>Mon, 16 Mar 2020 11:41:49 +0100</pubDate>
+			
+			<guid>https://example.com/posts/orion-backend-data-design/</guid>
+			<description>Read the full post on Medium.</description>
+			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/a-walkthrough-of-orions-backend-data-and-design-decisions-f60c01b507aa">Medium</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Orion: An open-source tool for the science of science</title>
+			<link>https://example.com/posts/orion-open-source-tool-for-science-of-science/</link>
+			<pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://example.com/posts/orion-open-source-tool-for-science-of-science/</guid>
+			<description>Read the full post on Medium.</description>
+			<content type="html"><![CDATA[<p>Read the full post on <a href="https://medium.com/@kstathou/orion-an-open-source-tool-for-the-science-of-science-4259935f91d4">Medium</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
+			<link>https://example.com/posts/ic2s2-ssa-meetups/</link>
+			<pubDate>Wed, 28 Aug 2019 14:31:39 +0100</pubDate>
+			
+			<guid>https://example.com/posts/ic2s2-ssa-meetups/</guid>
+			<description>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.
+Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa.</description>
+			<content type="html"><![CDATA[<p>Digital and physical connectivity are often framed as catalysts for a prosperous knowledge economy. The rapid adoption of mobile phones and the Internet in Sub-Saharan Africa (SSA) brought excitement for an information revolution that would boost the knowledge economy, connect the region with the rest of the world and provide sustainable, independent growth.</p>
+<p>Researchers have been studying the emergence of the knowledge economy and the socio-economic impact of ICT advancements in Africa. The results are not promising. Even though there are over 900 million mobile phone users and 350 million people connected to the Internet, the increased connectivity has not been as transformational as it was thought to be. For example, the Internet did not make digital entrepreneurship in SSA more inclusive. It also still remains spatially clustered, mainly happening in the most populous cities, and confined within the educated population. Furthermore, the creation of digital content, measured by collaborative software development and Internet domain registrations, is geographically uneven within the continent while the gap with the rest of the world is widening. Connectivity could be an important component for the emergence of the knowledge economy in Sub-Saharan Africa but not an enabling factor.</p>
+<p>An understudied area is the informal networking activity with tech and business content in Sub-Saharan Africa. In a <a href="https://drive.google.com/file/d/10kaiD5KPaIokuq62M1Jb__rwEOzzXe9z/view">poster</a> presented at the IC2S2 (<a href="https://kstathou.github.io/posts/2019/08/ic2s2-summary/">read a summary of the conference here</a>), we investigated its spatial distribution, how the links of local communities correlate with international trade data and how the region’s technologically specialised communities compare to those of the European Union (EU).</p>
+<h1 id="main-findings">Main findings</h1>
+<ul>
+<li>In all SSA countries but Cameroon, more than half of the Meetup groups are located in the three most populous cities of each country.</li>
+<li>The total value of exports in services correlates with the number of international links and the eigenvector centrality of the SSA countries.</li>
+<li>AI activity in SSA has increased, however, it remains less specialised than the EU.</li>
+</ul>
+<h1 id="data">Data</h1>
+<p>To do this work, we used data from Meetup, a platform for hosting in-person networking events. On Meetup, users can join groups and attend events. Meetup groups are split into categories depending on their topic of interest. We collected all the technology and business groups located in Sub-Saharan Africa and the European Union, the members that have joined them as well as the rest of the groups these members have joined which can be anywhere in the world. Moreover, we used the geographic coordinates of the Meetup groups to find their country and city. We also enriched the data by adding the population of cities in SSA.</p>
+<p>Our analysis focuses on groups created between 2010 and 2018 with 41 out of the 46 SSA countries having hosted Meetup events within this timeframe. Overall, we found 1,386 tech and business Meetup groups in SSA and 28,284 in the EU.</p>
+<h1 id="analysis">Analysis</h1>
+<p>When examining the spatial distribution of Meetup groups, we find that in all countries but Cameroon, more than half of the groups are located in the three most populous cities of each country. For the Meetup members, this holds for all SSA countries [1].</p>
+<h2 id="international-networking-and-trade">International networking and trade</h2>
+<p>We constructed a global co-membership network to encode how pairs of Meetup groups are connected to one another via shared members [2]. In detail, each unique group was represented as a node and the weighted edge between two nodes showed their Jaccard index. Then, we drew a maximum spanning tree to reduce the network’s density by keeping only the edges with the largest weight. In this way, a country was connected with another one only if they shared the largest number of Meetup members [3]. Lastly, we ran a community detection algorithm and identified six clusters of nodes.</p>
+<p>By examining the graph of Figure 1, we find that South Africa’s Meetup groups are the most connected in Sub-Saharan Africa, followed by Kenya’s and Nigeria’s. The United States is the biggest international hub, while countries in western Africa are mostly connected to France.</p>
+<p><img src="/002-ssa-meetup-network.png" alt="stacked">
+<em>Figure 1. Links between SSA’s Meetup communities and the rest of the world</em></p>
+<p>Then, we examined the correlation between the value of trade in services of the SSA countries with their number of connections and their eigenvector centrality. As Figure 2 shows, we find a strong and statistically important correlation between the volume of exports in services with the degree count and the eigenvector centrality of an SSA country [4].</p>
+<p><img src="/002-linreg.png" alt="stacked">
+<em>Figure 2. The more connected a Sub-Saharan Africa country is or the more linked to “rich” neighbours (nodes with a high degree count), the larger its total value of exports in services.</em></p>
+<h2 id="artificial-intelligence-in-sub-saharan-africa-and-the-eu">Artificial Intelligence in Sub-Saharan Africa and the EU</h2>
+<p>Meetup groups use keywords that describe their topics of interest. In our analysis, we used these keywords to identify Artificial Intelligence (AI) Meetup groups and study the differences between those in SSA and the EU.</p>
+<h3 id="spotting-the-ai-clusters">Spotting the AI clusters</h3>
+<p>We treated the keywords of every group as an artificial sentence and trained a word2vec model, finding the vector representation of every keyword [5]. For example, the &lsquo;machine-learning, data-analytics, data-mining&rsquo; is a sentence with three tokens, &lsquo;machine-learning’, ‘data-analytics’ and ‘data-mining&rsquo;.</p>
+<p>Then, we used t-SNE to reduce the dimensionality of the vector space to 2D. Lastly, we fitted a Gaussian Mixture model to cluster the word vectors and handpicked the clusters that contained numerous AI-related keywords. Using this pipeline, we identified 301 AI Meetups in SSA and 6,145 in the EU.</p>
+<h3 id="ai-is-not-everywhere-the-same">AI is not everywhere the same</h3>
+<p>We constructed a co-occurrence network of the AI keywords used in SSA and the EU and drew its maximum spanning tree, as in the previous section, to examine if the interests of the communities of these areas differ. Figure 3 shows the AI and Big Data network where all of the keywords (blue and orange) have been used by EU Meetup groups while those in orange have not been used by SSA Meetups. Even though there is a significant overlap, there are some noticeable differences. For example, keywords related to GPU programming, signal processing and autonomous vehicles have not been used by SSA Meetup groups.</p>
+<p><img src="/002-ai-tags-network.png" alt="stacked">
+<em>Figure 3. AI and Big Data keywords graph.</em></p>
+<p>Lastly, we examined how AI is represented in SSA and the EU. Using only the AI Meetups, we found the proportion of SSA and EU groups that have used some of the most common AI keywords [6]. We subtracted the continent proportions and show the differences for AI keywords in Figure 4. We find that more specialised keywords such as deep learning and neural networks are overrepresented in EU’s communities, while more generic keywords such as cloud computing, data visualisation and machine learning are overrepresented in SSA.</p>
+<p>Even though SSA’s AI Meetup activity has rapidly increased in recent years, it remains less specialised than the EU’s.</p>
+<p><img src="/002-ai-tags.png" alt="stacked">
+<em>Figure 4. Overrepresentation of AI Meetup tags in the EU and SSA.</em></p>
+<h1 id="next-steps">Next steps</h1>
+<ul>
+<li>Use Meetup event data to understand how the interests of individuals in SSA change over time.</li>
+<li>Combine Meetup with flight data to examine the link between the ease of transportation and the connectivity of Meetup communities. In a similar fashion, associate  data from <a href="http://www.cepii.fr/cepii/en/bdd_modele/presentation.asp?id=6">CEPII</a> with Meetup.</li>
+<li>Examine if Meetup data could be used to nowcast SDG indicators.</li>
+</ul>
+<h1 id="notes">Notes</h1>
+<ol>
+<li>We assigned Meetup members to the cities where they had joined the most groups.</li>
+<li>Since we are interested in showing how the informal network communities of Sub-Saharan Africa countries are connected to the rest of the world, we restricted our network to pairs where at least of the countries is from that region.</li>
+<li>Michele Coscia has written an interesting paper on <a href="https://arxiv.org/abs/1701.07336">Network Backboning with Noisy Data</a>. It could be used to reduce the number of edges in the graph.</li>
+<li>The analysis was done with the original co-membership network and not with the maximum spanning tree.</li>
+<li>Word2vec creates word vectors in a way that those found in a similar context will have also have a similar vector representation.</li>
+<li>We ran a two proportion z-test to determine the significance of our results. In Figure 4, the difference in all of the keywords but data-engineering, data-science, tensorflow and machine-intellingence was statistically significant.</li>
+</ol>
+]]></content>
+		</item>
+		
+		<item>
+			<title>What I learned during the IC2S2</title>
+			<link>https://example.com/posts/ic2s2-2019-summary/</link>
+			<pubDate>Fri, 09 Aug 2019 14:20:39 +0100</pubDate>
+			
+			<guid>https://example.com/posts/ic2s2-2019-summary/</guid>
+			<description>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.
+The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community.</description>
+			<content type="html"><![CDATA[<p>This year’s IC2S2 was held in the mostly sunny Amsterdam. Being my first time at a Computational Social Science conference, I decided to write down my thoughts and a tweet-length gist for most of the talks I attended.</p>
+<p>The 5th edition of the conference covered a wide set of topics. Text and network analysis, complex systems, game theory, experiments, machine learning, qualitative studies, mixed-method approaches, collective intelligence, polarisation, misinformation, protests, migration, inequality, cooperation and organisation, science of science, reproducibility and transparency; throughout the days, IC2S2 offered something interesting to every community. I enjoyed that most of the talks were accessible, however, I would prefer them a bit longer. Presenters would have time to dive into some of the details as well as address more questions.</p>
+<p>I also noticed a few recurrent, strongly opinionated topics during the conference:</p>
+<ul>
+<li>The split between Social Science and Computer Science and how to bridge the gap between communities.</li>
+<li>An increasing scarcity of data suitable for research.</li>
+<li>The future of Computational Social Science: The importance of theory-driven approaches, a necessary turn to solution-oriented research and the skills that are required to excel in the field.</li>
+</ul>
+<p>Overall, it was a great experience and I am looking forward to IC2S2 2020 in Boston!</p>
+<p>Without further ado, here’s a summary of the IC2S2:</p>
+<h2 id="keynotes">Keynotes</h2>
+<h3 id="kenneth-benoit-on-nlp-and-social-scientific-analysis">Kenneth Benoit on NLP and social scientific analysis.</h3>
+<p>Kenneth highlighted that &ldquo;we use language for communication, not to create data&rdquo; and that this has some obvious problems for social science research which we can fix with <em>&ldquo;better models and less denial&rdquo;</em>.</p>
+<p>He also made a highly contested argument that there’s a split between Computer Scientists and Social Scientists with the former group caring more about prediction and “optimising a loss function”, while the latter group focusing on explanation and measurement.</p>
+<p><em>&ldquo;Sometimes what improves prediction kills measurement.&quot;</em></p>
+<p><img src="/001-kenneth-benoit.jpg" alt="stacked"></p>
+<p>Kenneth also mentioned how the insidious bias can be harmful and that we should treat unsupervised methods with caution. Lastly, he stressed out the importance of reproducibility and transparency in computational social science.</p>
+<h3 id="deen-freelon-discussing-the-data-landscape">Deen Freelon discussing the data landscape</h3>
+<p>Deen talked about the post-API age where the proprietary databases are data oases, paywalled and in inconvenient formats but still available for research. He showcased two of his Python packages for extracting and preprocessing data from NexusUni and Factiva. Personal take: There is a plethora of under-utilised open data sources and more are becoming available regularly, however, their share in the data landscape is decreasing over time.</p>
+<p>He also touched on research principles; a researcher might be compliant with the Terms &amp; Conditions of a platform, however, it’s the ethical use of data that we should focus on.</p>
+<h3 id="monica-lee--devra-moehler-from-facebook">Monica Lee &amp; Devra Moehler from Facebook</h3>
+<p>They gave a fantastic talk on Facebook&rsquo;s approaches to tackle misinformation and prevent election interference. They acknowledged that in 2016, Facebook failed to prevent numerous fake accounts from posting messages on its pages and groups which amplified misinformative news. These posts were receiving approximately 16M views per week in 2016.</p>
+<p><img src="/001-fb1.jpg" alt="stacked"></p>
+<p>They also described how malicious actors organised information operations by infiltrating Facebook communities, such as the LGBTQ+, establishing relations with the organisers and other members and then spreading misinformative opinions.</p>
+<p><img src="/001-fb2.jpg" alt="stacked"></p>
+<p>Facebook has deployed a variety of prevention tactics described as <em>“Inform, Reduce, Remove”</em>. I’ve binned them into three rough categories:</p>
+<ul>
+<li><strong>Better models and software</strong>: They explained how they used network analysis and vectorisation methods to detect clusters of malicious actors that promote and amplify misinformative messages.</li>
+<li><strong>New policies</strong>: For political advertisements, users must provide their identity and location. This worked great in the US in 2018, however, it&rsquo;s important to adapt it to different countries. For example, citizens and advertisers of other countries, such as India, couldn’t understand why this additional verification step was needed because the concepts of election interference and misinformation were either very new or non-existent.</li>
+<li><strong>Raising awareness and informing users about the elections</strong>: Enrich users&rsquo; knowledge of their local electorate. Fascinating work combining UX research, surveys, interviews and AB testing to understand what works in different countries.</li>
+</ul>
+<p><strong>Bonus links:</strong></p>
+<ul>
+<li><a href="https://www.facebook.com/ads/library">Facebook&rsquo;s Ad Library</a></li>
+<li><a href="https://socialscience.one/">Social Science One</a></li>
+</ul>
+<h3 id="keynote-by-claudia-wagner">Keynote by Claudia Wagner</h3>
+<p>Fascinating talk on perception bias, networks, representation of minorities, using a survey-inspired error framework for studying open data, theory-guided data collection processes and justifying and documenting design choices.</p>
+<p><img src="/001-claudia-wagner.jpg" alt="stacked"></p>
+<h3 id="panel-discussion-on-the-future-of-css">Panel discussion on the future of CSS</h3>
+<p>We moved from a data-poor to a data-rich world, however, the gap between company-owned data and data available for research is getting wider.</p>
+<p>Generally, we may be heading towards solution-oriented social science research. Personal take: That’s great. We should bridge the gap between theory, academic research and real-world applications.</p>
+<p>Doing Computational Social Science well is tough. It requires a variety of skills (Rense Corten summarised some of them on Twitter) and the solution isn&rsquo;t to create a new discipline but develop interfaces that would enable the efficient collaboration of interdisciplinary teams.</p>
+<p>Lastly, Helen Margetts highlighted the importance of data mapping exercises to help policymakers understand the information they possess. We&rsquo;ve written a <a href="https://www.nesta.org.uk/report/innovation-mapping-now/">summary</a> of how we do this at Nesta.</p>
+<h3 id="keynote-by-cesar-hidalgo">Keynote by Cesar Hidalgo</h3>
+<p>What a way to close the conference. Fascinating talk by Cesar on how humans judge machines. Cesar and his team conducted a series of experiments documenting the differences on how people judge human and AI actions in a variety of scenarios.</p>
+<p>There’s a book coming up.</p>
+<p><img src="/001-cesar-hidalgo.jpg" alt="stacked"></p>
+<h2 id="misinformation-track">Misinformation track</h2>
+<h3 id="vaccine-misinformation-on-twitter">Vaccine misinformation on Twitter</h3>
+<p>Jieyu Ding gathered tweets using a keyword-based approach and used four human annotators to label them as informative or misinformative. She then examined the misinformation and non-misinformation semantic networks to spot differences in terms used and find the prevalent topics for each of them.</p>
+<p>I liked her workflow chart.</p>
+<p><img src="/001-misinformation-classification.jpg" alt="stacked"></p>
+<h3 id="social-media-fake-news-and-perception-of-truth">Social media, fake news and perception of truth</h3>
+<p>Interesting talk by Abhijnan Chakraborty on prioritisation in fact-checking, how users can be biased depending on the story and how to correct the misperception of truth with new analytical frameworks.</p>
+<h2 id="science-studies-track">Science studies track</h2>
+<h3 id="detecting-innovation-through-combination">Detecting innovation through combination</h3>
+<p>George Richardson’s talk was a great example of how continuous experimentation and research leads to tools that work in practice. Using his novel methods of identifying emerging topics, he showcased how machine learning became mainstream.</p>
+<p><img src="/001-george-richardson.jpg" alt="stacked"></p>
+<h2 id="cooperation-track">Cooperation track</h2>
+<h3 id="learning-network-structure-in-quadratic-games">Learning network structure in quadratic games</h3>
+<p>Very interesting talk by Yan Leng on using network-based interactions and setting up games to infer the agents&rsquo; behaviour/relationship with other agents.</p>
+<h3 id="vote-trading">Vote trading</h3>
+<p>We only have anecdotal evidence on vote trading and very poor ways of measuring it. Daniele presented a framework for achieving the latter. He tested it with UNGA data. He used topic modelling on UN resolutions to create features for a model predicting voting behaviour.</p>
+<p><img src="/001-vote-trading.jpg" alt="stacked"></p>
+<h2 id="policy-track">Policy track</h2>
+<h3 id="mass-media-discourse-on-internet-regulation-in-russia">Mass media discourse on internet regulation in Russia</h3>
+<p>The researchers studied the evolution and thematic topics of that issue. What I liked: Clustering semantic networks for dynamic topic modelling</p>
+<p><img src="/001-russia.jpg" alt="stacked"></p>
+<h3 id="illegal-markets-and-anonymity">Illegal markets and anonymity</h3>
+<p>Fascinating talk by Isak Ladegaard on what happened with Silk Road&rsquo;s sellers after the closure of the platform by the FBI in 2013. He highlighted that legal pressure doesn’t impair the development of illegal markets in the digital age. They are highly adaptable and resemble pre-modern markets. He also described how sellers adopted new identity verification methods that enabled them to migrate to other markets without losing their ranking and fame.</p>
+<p><img src="/001-silk-road.jpg" alt="stacked"></p>
+<h2 id="text-analysis-track">Text analysis track</h2>
+<h3 id="document-composition-bias-and-word-embeddings">Document composition, bias and word embeddings</h3>
+<p>Awesome work on detecting and measuring bias in documents. The researchers used recent interpretability methods to explore the composition of the documents which most affect bias in word embeddings.</p>
+<p>Also learned about this <a href="https://www.nytimes.com/interactive/2018/obituaries/overlooked.html">NYT project</a>.</p>
+<h3 id="comparing-semantic-change-detection-approaches-with-word-embeddings">Comparing semantic change detection approaches with word embeddings</h3>
+<p>Dong Nguyen and her colleagues proposed a new evaluation framework and systematically compared the different choices involved when used word embeddings for semantic change detection. She also showcased her results on a large chunk of Twitter data.</p>
+<p><img src="/001-word-embeddings.jpg" alt="stacked"></p>
+<h2 id="collective-attention-track">Collective Attention track</h2>
+<h3 id="the-acceleration-of-collection-attention">The acceleration of collection attention</h3>
+<p>Very interesting talk by Philipp Lorenz-Spreen measuring the trajectories of collective attention received by Twitter hashtags, books or movies. They revealed an acceleration in the content creation across several decades and that this information overload rapidly consumes our collective attention.</p>
+<p><img src="/001-collective-attention.jpg" alt="stacked"></p>
+<h3 id="a-new-dataset-for-evaluating-the-quality-of-online-news">A New Dataset for evaluating the quality of online news</h3>
+<p>Rebekah Tromble presented a new, large dataset to develop automatic classifiers for signals of news quality and misinformation in US media reporting. That’s part of the <a href="https://www.turing.ac.uk/research/research-projects/misinformed-citizen">(mis)informed Citizen project</a> from the Alan Turing Institute.</p>
+<p>An excellent example of how social science researchers can effectively collaborate with engineering teams.</p>
+<h3 id="estimating-the-effect-of-media-attention-on-terror-organisations">Estimating the effect of media attention on terror organisations</h3>
+<p>The researchers studied whether the media attention to terrorist attacks fuels the growth of the organisations behind them.</p>
+<p>They collected attack-level media attention data and estimated its effect with an instrumental variable analysis using the co-occurrence of natural disasters with the attacks as an instrumental variable.</p>
+<p>They found that terrorist organisations manipulate media attention for their own benefit (mostly to get funding) and that only smaller organisations are affected when their attacks are deprived of publicity.</p>
+<h2 id="organisations">Organisations</h2>
+<h3 id="optimal-team-construction-for-a-complex-task">Optimal team construction for a complex task</h3>
+<p>The researchers ran an experiment to examine how various factors such as skill diversity, cognitive style, social perceptiveness and skill-level, affect a team’s collective performance. They found that social perceptiveness is positively related to performance, however, skill-level is more important, accounting for almost four times as much the explained variance. They also found that skill diversity is negatively associated with team performance.</p>
+<p><img src="/001-team-construction.jpg" alt="stacked"></p>
+<h3 id="impact-of-architectural-space-typologies-and-human-interaction-patterns-on-the-performance-of-startup-teams-operating-in-entrepreneurship-incubator-centres">Impact of Architectural Space Typologies and Human Interaction Patterns on the Performance of Startup Teams operating in Entrepreneurship Incubator Centres</h3>
+<p>Fascinating work by researchers from the MIT and Harvard showing their analysis of how architectural features and behavioural working patterns impact performance outcome and success. They ran an experiment on during the MIT DeltaV programme at the MIT Martin Trust Center and their work (ongoing) will inform the future architecture and organisation design of research-based entrepreneurship co-working centres.</p>
+<p><img src="/001-mit.jpg" alt="stacked"></p>
+<h2 id="wisdom-of-crowd">Wisdom of Crowd</h2>
+<h3 id="social-influence-undermines-the-wisdom-of-crowd-in-sequential-decision-making">Social Influence Undermines the Wisdom of Crowd in Sequential Decision-Making</h3>
+<p>The researchers ran an online experiment using Amazon Mechanical Turk to examine how social influence affects collective decision making. Interestingly, they found that organisation seeking to exploit crowd wisdom in team decision-making should reward independent expression as well as avoid rewarding individuals who have made the right call.</p>
+<h3 id="social-network-centralisation-and-collective-intelligence-a-randomised-experiment">Social Network Centralisation and Collective Intelligence: a randomised experiment</h3>
+<p>Researchers showed that social network centralisation helps collective intelligence by testing various network structures (from star networks to hub-and-spoke) and how information flows in them.</p>
+<p><img src="/001-ci-centralisation.jpg" alt="stacked"></p>
+<h2 id="closing-thoughts">Closing thoughts</h2>
+<p>IC2S2 provided a great platform to meet interesting people, be inspired by their work, share your contributions to the field and receive valuable feedback.</p>
+<p>Lastly, the organisers deserve whole bowls of cookies. They did a spectacular job, handling a crowd of 480 and entertaining it with loads of keynotes spread throughout the day, 6 parallel sessions with fascinating talks, a nice reception, boat ride and dinner at a wonderful place.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

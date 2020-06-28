@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-06-28T11:03:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/demo/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/image/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/post-title/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/aws-gpu-ml/</loc>
+    <lastmod>2020-04-29T11:42:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/orion-backend-data-design/</loc>
+    <lastmod>2020-03-16T11:41:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/orion-open-source-tool-for-science-of-science/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/computational-social-science/</loc>
+    <lastmod>2019-08-28T14:31:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/ic2s2/</loc>
+    <lastmod>2019-08-28T14:31:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ic2s2-ssa-meetups/</loc>
+    <lastmod>2019-08-28T14:31:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/node-embeddings/</loc>
+    <lastmod>2019-08-28T14:31:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ic2s2-2019-summary/</loc>
+    <lastmod>2019-08-09T14:20:39+01:00</lastmod>
+  </url>
+  
+</urlset>
