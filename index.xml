@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 15:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 16:43:34 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Orion: Web interface demo</title>
+      <link>https://kstathou.github.io/posts/orion-overview/</link>
+      <pubDate>Sun, 28 Jun 2020 16:43:34 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/orion-overview/</guid>
+      <description>Zac Ioannidis, my collaborator on Orion, recorded a walkthrough of Orion&amp;rsquo;s frontend for the IC2S2 conference where we are running a tutorial.
+Watch the video here.</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -62,6 +72,24 @@ Link to video</description>
     </item>
     
     <item>
+      <title>Prototype app: Misinformation research explorer</title>
+      <link>https://kstathou.github.io/posts/misinformation-explorer/</link>
+      <pubDate>Thu, 18 Jun 2020 16:38:09 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/misinformation-explorer/</guid>
+      <description>This application is intended for visual exploration and discovery of research publications on misinformation, disinformation and fake news. Every particle in the visualisation is an academic publication. The particles are positioned in space based on the semantic similarity of the paper abstracts; the closer two points are, the more semantically similar their abstracts. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
+    </item>
+    
+    <item>
+      <title>Is AI causing collective intelligence research to become less diverse?</title>
+      <link>https://kstathou.github.io/posts/ai-collective-intelligence/</link>
+      <pubDate>Tue, 16 Jun 2020 16:29:14 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/ai-collective-intelligence/</guid>
+      <description>AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.</description>
+    </item>
+    
+    <item>
       <title>SciNLP | Orion: An interactive information retrieval system for scientific knowledge discovery</title>
       <link>https://kstathou.github.io/talks/scinlp-orion/</link>
       <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
@@ -72,41 +100,13 @@ Link to video</description>
     </item>
     
     <item>
-      <title>How to set up a GPU instance for machine learning on AWS</title>
-      <link>https://kstathou.github.io/posts/aws-gpu-ml/</link>
-      <pubDate>Wed, 29 Apr 2020 11:42:44 +0100</pubDate>
+      <title>Artificial Intelligence and the Fight Against COVID-19</title>
+      <link>https://kstathou.github.io/publications/ai-covid19/</link>
+      <pubDate>Mon, 15 Jun 2020 16:33:54 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/posts/aws-gpu-ml/</guid>
-      <description>Read the full post on Medium.</description>
-    </item>
-    
-    <item>
-      <title>A walkthrough of Orion’s backend, data and design decisions</title>
-      <link>https://kstathou.github.io/posts/orion-backend-data-design/</link>
-      <pubDate>Mon, 16 Mar 2020 11:41:49 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/posts/orion-backend-data-design/</guid>
-      <description>Read the full post on Medium.</description>
-    </item>
-    
-    <item>
-      <title>Orion: An open-source tool for the science of science</title>
-      <link>https://kstathou.github.io/posts/orion-open-source-tool-for-science-of-science/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://kstathou.github.io/posts/orion-open-source-tool-for-science-of-science/</guid>
-      <description>Read the full post on Medium.</description>
-    </item>
-    
-    <item>
-      <title>Highlights from the HAI Conference on AI Ethics, Policy and Governance</title>
-      <link>https://kstathou.github.io/posts/hai-notes/</link>
-      <pubDate>Thu, 07 Nov 2019 15:17:16 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/posts/hai-notes/</guid>
-      <description>Last week, I attended the HAI Conference on AI Ethics, Policy and Governance, organised by the Institute for Human-Centered Artificial Intelligence at Stanford University. It was an exciting event that was packed with interesting talks and attracted almost a thousand people. In this blog, I summarise some of its highlights.
-AI and the economy Erik Brynjolfsson and Susan Ashley discussed the economics of AI.
-“Silicon Valley, we got a problem”, said Erik who focused on the topic’s macro-level picture; he highlighted the need for institutions to ensure that the benefits of AI are shared.</description>
+      <guid>https://kstathou.github.io/publications/ai-covid19/</guid>
+      <description>ArtificiaI intelligence (AI) techniques could play an important role in the mission to tackle COVID-19, from helping to discover new drugs and vaccines to predicting the spread of infection and testing patients. At the same time, many AI techniques are experimental, rely on big, sensitive datasets and might be difficult to apply in high-stakes domains such as health.
+This report studies the levels, evolution, geography, knowledge base and quality of AI research in the COVID-19 mission field using a novel dataset taken from open preprints sites arXiv, bioRxiv and medRxiv, which we have enriched with geographical, topical and citation data.</description>
     </item>
     
   </channel>

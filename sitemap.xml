@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kstathou.github.io/</loc>
+    <lastmod>2020-06-28T16:43:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/posts/orion-overview/</loc>
+    <lastmod>2020-06-28T16:43:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/posts/</loc>
+    <lastmod>2020-06-28T16:43:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kstathou.github.io/publications/</loc>
     <lastmod>2020-06-28T15:59:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</loc>
-    <lastmod>2020-06-28T15:53:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kstathou.github.io/</loc>
     <lastmod>2020-06-28T15:53:00+01:00</lastmod>
   </url>
   
@@ -38,6 +48,16 @@
   </url>
   
   <url>
+    <loc>https://kstathou.github.io/posts/misinformation-explorer/</loc>
+    <lastmod>2020-06-18T16:38:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/posts/ai-collective-intelligence/</loc>
+    <lastmod>2020-06-16T16:29:14+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kstathou.github.io/tags/information-retrieval/</loc>
     <lastmod>2020-06-16T15:48:49+01:00</lastmod>
   </url>
@@ -58,12 +78,27 @@
   </url>
   
   <url>
-    <loc>https://kstathou.github.io/posts/aws-gpu-ml/</loc>
-    <lastmod>2020-04-29T11:42:44+01:00</lastmod>
+    <loc>https://kstathou.github.io/publications/ai-covid19/</loc>
+    <lastmod>2020-06-15T16:33:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kstathou.github.io/posts/</loc>
+    <loc>https://kstathou.github.io/publications/</loc>
+    <lastmod>2020-06-15T16:33:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/closing-of-ai/</loc>
+    <lastmod>2020-05-11T16:48:22+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/privatization-of-ai/</loc>
+    <lastmod>2020-05-10T16:47:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/posts/aws-gpu-ml/</loc>
     <lastmod>2020-04-29T11:42:44+01:00</lastmod>
   </url>
   
@@ -98,6 +133,11 @@
   </url>
   
   <url>
+    <loc>https://kstathou.github.io/publications/deep-learning-deep-change/</loc>
+    <lastmod>2019-09-10T16:25:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kstathou.github.io/tags/computational-social-science/</loc>
     <lastmod>2019-08-28T14:31:39+01:00</lastmod>
   </url>
@@ -123,18 +163,13 @@
   </url>
   
   <url>
+    <loc>https://kstathou.github.io/publications/gender-diversity-ai/</loc>
+    <lastmod>2019-08-01T16:04:50+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kstathou.github.io/publications/ic2s2-ssa-meetups/</loc>
     <lastmod>2019-08-01T16:01:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kstathou.github.io/publications/</loc>
-    <lastmod>2019-08-01T16:01:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kstathou.github.io/publications/mapping-without-a-map/</loc>
-    <lastmod>2018-08-17T16:07:35+01:00</lastmod>
   </url>
   
   <url>
@@ -150,6 +185,31 @@
   <url>
     <loc>https://kstathou.github.io/tags/presentation/</loc>
     <lastmod>2018-06-28T15:27:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/eis-2018/</loc>
+    <lastmod>2018-06-19T16:16:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/immersive-economy-2018/</loc>
+    <lastmod>2018-05-08T16:18:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/creative-nation/</loc>
+    <lastmod>2018-02-01T16:13:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/invisible-college/</loc>
+    <lastmod>2017-08-17T16:12:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kstathou.github.io/publications/mapping-without-a-map/</loc>
+    <lastmod>2017-08-17T16:07:35+01:00</lastmod>
   </url>
   
 </urlset>

@@ -6,8 +6,56 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Wed, 29 Apr 2020 11:42:44 +0100</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jun 2020 16:43:34 +0100</lastBuildDate>
 		<atom:link href="https://kstathou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Orion: Web interface demo</title>
+			<link>https://kstathou.github.io/posts/orion-overview/</link>
+			<pubDate>Sun, 28 Jun 2020 16:43:34 +0100</pubDate>
+			
+			<guid>https://kstathou.github.io/posts/orion-overview/</guid>
+			<description>Zac Ioannidis, my collaborator on Orion, recorded a walkthrough of Orion&amp;rsquo;s frontend for the IC2S2 conference where we are running a tutorial.
+Watch the video here.</description>
+			<content type="html"><![CDATA[<p>Zac Ioannidis, my collaborator on Orion, recorded a walkthrough of Orion&rsquo;s frontend for the IC2S2 conference where we are running a tutorial.</p>
+<p>Watch the video <a href="https://youtu.be/7xII8cFWJRc">here</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Prototype app: Misinformation research explorer</title>
+			<link>https://kstathou.github.io/posts/misinformation-explorer/</link>
+			<pubDate>Thu, 18 Jun 2020 16:38:09 +0100</pubDate>
+			
+			<guid>https://kstathou.github.io/posts/misinformation-explorer/</guid>
+			<description>This application is intended for visual exploration and discovery of research publications on misinformation, disinformation and fake news. Every particle in the visualisation is an academic publication. The particles are positioned in space based on the semantic similarity of the paper abstracts; the closer two points are, the more semantically similar their abstracts. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
+			<content type="html"><![CDATA[<p>This application is intended for visual exploration and discovery of research publications on misinformation, disinformation and fake news. Every particle in the visualisation is an academic publication. The particles are positioned in space based on the semantic similarity of the paper abstracts; the closer two points are, the more semantically similar their abstracts. You can hover over the particles to read their titles and you can click them to be redirected to the original source. You can zoom in the visualisation by scrolling and you can reset the view by double clicking the white space within the figure.</p>
+<p>You can specify a range for the papers&rsquo; publication date. You can also show papers with a particular set of fields of study. Microsoft Academic Graph uses a 6-level hierarchy where level 0 is high level disciplines such as Biology and Computer science while level 5 contains the most granular paper keywords. Using the sidebar filters, you can first choose the level of the field of study and then pick specific keywords within it.</p>
+<h2 id="deployment-">Deployment</h2>
+<p>This is a Streamlit app that I deployed on AWS Elasticbeanstalk with Docker. The code is open source and you can find it <a href="https://github.com/kstathou/misinformation-explorer">here</a>.</p>
+<h2 id="data--methods-">Data &amp; Methods</h2>
+<p>I collected all of the publications from Microsoft Academic Graph that were published between 2000 and 2020 and contained one of the following terms as a field of study:</p>
+<ul>
+<li>misinformation</li>
+<li>disinformation</li>
+<li>fake news</li>
+</ul>
+<p>I fetched approximately 15K publications. This visualisations shows only those with a DOI - that&rsquo;s ~5K documents.</p>
+<p>To create the 2D visualisation, I encoded the paper abstracts to dense vectors using a sentence-DistilBERT model. That produced a 768-dimensional vector for each document which I projected to a 2D space with UMAP.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Is AI causing collective intelligence research to become less diverse?</title>
+			<link>https://kstathou.github.io/posts/ai-collective-intelligence/</link>
+			<pubDate>Tue, 16 Jun 2020 16:29:14 +0100</pubDate>
+			
+			<guid>https://kstathou.github.io/posts/ai-collective-intelligence/</guid>
+			<description>AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.</description>
+			<content type="html"><![CDATA[<p>AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.</p>
+<p>Read the full post on <a href="https://www.nesta.org.uk/project-updates/ai-ci-researchmapping/">Nesta&rsquo;s website</a>.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>How to set up a GPU instance for machine learning on AWS</title>

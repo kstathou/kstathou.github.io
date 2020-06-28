@@ -7,10 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 16:01:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 16:33:54 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial Intelligence and the Fight Against COVID-19</title>
+      <link>https://kstathou.github.io/publications/ai-covid19/</link>
+      <pubDate>Mon, 15 Jun 2020 16:33:54 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/ai-covid19/</guid>
+      <description>ArtificiaI intelligence (AI) techniques could play an important role in the mission to tackle COVID-19, from helping to discover new drugs and vaccines to predicting the spread of infection and testing patients. At the same time, many AI techniques are experimental, rely on big, sensitive datasets and might be difficult to apply in high-stakes domains such as health.
+This report studies the levels, evolution, geography, knowledge base and quality of AI research in the COVID-19 mission field using a novel dataset taken from open preprints sites arXiv, bioRxiv and medRxiv, which we have enriched with geographical, topical and citation data.</description>
+    </item>
+    
+    <item>
+      <title>A Closing of the Artificial Intelligence Field? Forthcoming paper at the Research Policy</title>
+      <link>https://kstathou.github.io/publications/closing-of-ai/</link>
+      <pubDate>Mon, 11 May 2020 16:48:22 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/closing-of-ai/</guid>
+      <description>Extended abstract</description>
+    </item>
+    
+    <item>
+      <title>Privatization of AI: Forthcoming paper at the Research Policy</title>
+      <link>https://kstathou.github.io/publications/privatization-of-ai/</link>
+      <pubDate>Sun, 10 May 2020 16:47:17 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/privatization-of-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning, deep change? Mapping the development of the Artificial Intelligence General Purpose Technology</title>
+      <link>https://kstathou.github.io/publications/deep-learning-deep-change/</link>
+      <pubDate>Tue, 10 Sep 2019 16:25:13 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/deep-learning-deep-change/</guid>
+      <description>Presented at the NBER Economics of AI conference
+General Purpose Technologies (GPTs) that can be applied in many industries are an important driver of economic growth and national and regional competitiveness. In spite of this, the geography of their development and diffusion has not received significant attention in the literature. Klinger, Mateos-Garcia, and Stathoulopoulos address this with an analysis of Deep Learning (DL), a core technique in Artificial Intelligence (AI) increasingly being recognized as the latest GPT.</description>
+    </item>
+    
+    <item>
+      <title>Gender Diversity in AI Research</title>
+      <link>https://kstathou.github.io/publications/gender-diversity-ai/</link>
+      <pubDate>Thu, 01 Aug 2019 16:04:50 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/gender-diversity-ai/</guid>
+      <description>Lack of gender diversity in the Artificial Intelligence (AI) workforce is raising growing concerns, but the evidence base about this problem has until now been based on statistics about the workforce of large technology companies or submissions to a small number of prestigious conferences. We build on this literature with a large-scale analysis of gender diversity in AI research using publications from arXiv, a widely-used preprints repository where we have identified AI papers through an expanded keyword analysis, and predicted author gender using a name-to-gender inference service.</description>
+    </item>
     
     <item>
       <title>Links, trade and AI: An analysis of the informal knowledge network in Sub-Saharan Africa</title>
@@ -22,13 +69,42 @@
     </item>
     
     <item>
-      <title>MSc Thesis | Mapping without a map: Exploring the UK business landscape using unsupervised learning</title>
-      <link>https://kstathou.github.io/publications/mapping-without-a-map/</link>
-      <pubDate>Fri, 17 Aug 2018 16:07:35 +0100</pubDate>
+      <title>Nowcasting EU innovation indicators using GitHub data</title>
+      <link>https://kstathou.github.io/publications/eis-2018/</link>
+      <pubDate>Tue, 19 Jun 2018 16:16:44 +0100</pubDate>
       
-      <guid>https://kstathou.github.io/publications/mapping-without-a-map/</guid>
-      <description>That was my MSc Thesis project which I presented at the Data for Policy conference in 2017.
-Policy interventions have to be timely and tailored to specific sectors of the economic ecosystem to maximise their potential impact. We propose a system based on open data that offers policy makers two capabilities. First, it enables them to explore the digital and tech company space with high granularity through keywords, specific technologies or company names, and identify relevant organisations and those most similar to them.</description>
+      <guid>https://kstathou.github.io/publications/eis-2018/</guid>
+      <description>This exploratory paper presents the results of an analysis of the opportunities and challenges for incorporating Big data into the European Innovation Scoreboard (EIS).
+In the EIS, I used GitHub data to nowcast EIS indicators. See a summary below:
+Open source software development has revolutionised the digital economy, making it possible for small businesses to access state-of-the-art technologies developed by communities of volunteers. The vast majority of the server infrastructure of the internet uses Linux, an open source operating system, and the same is true for Android, the dominant smartphone platform.</description>
+    </item>
+    
+    <item>
+      <title>Predicting the size and turnover of UK&#39;s Immersive Economy</title>
+      <link>https://kstathou.github.io/publications/immersive-economy-2018/</link>
+      <pubDate>Tue, 08 May 2018 16:18:46 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/immersive-economy-2018/</guid>
+      <description>In this report, I combined survey data with text data from company websites to predict the number of employees and turnover of UK&amp;rsquo;s immersive economy companies.
+Download PDF here</description>
+    </item>
+    
+    <item>
+      <title>Creative Nation: How the Creative Industries are Powering the UK’s Nations and Regions</title>
+      <link>https://kstathou.github.io/publications/creative-nation/</link>
+      <pubDate>Thu, 01 Feb 2018 16:13:56 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/creative-nation/</guid>
+      <description>Creative Nation uses official, open and web data to map the creative industries in the UK: their evolution, contribution to local economic development, the strength of their support ecosystems – including research and networking – and their connections with each other. The report presents eight key findings based on our analysis of the data, and is accompanied by an open dataset and interactive visualisations to help users explore the data.</description>
+    </item>
+    
+    <item>
+      <title>An (increasingly) visible college: Mapping and strengthening research and innovation networks with open data</title>
+      <link>https://kstathou.github.io/publications/invisible-college/</link>
+      <pubDate>Thu, 17 Aug 2017 16:12:23 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/invisible-college/</guid>
+      <description>Innovation policymakers need timely, detailed data about scientific research trends and networks to monitor their evolution and put in place suitable strategies to support them. We have analysed the Gateway to Research, an open dataset about research funding and university-industry collaborations in the UK in a project to map innovation in Wales. We use supervised learning and Natural Language Processing to improve data coverage and measure activity in research topics, build a recommendation engine to identify new opportunities for collaboration in the Welsh innovation system, and present the results through interactive visualisations.</description>
     </item>
     
   </channel>
