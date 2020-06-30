@@ -43,6 +43,27 @@ Link to video</description>
     </item>
     
     <item>
+      <title>YSI Complexity Economics | Tutorial on web scraping with Python</title>
+      <link>https://kstathou.github.io/talks/ysi-tutorial/</link>
+      <pubDate>Wed, 04 Sep 2019 09:01:58 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/ysi-tutorial/</guid>
+      <description>I did this tutorials at the YSI Complexity Economics conference that was attended mainly by PhD students and young scholars. I covered the following:
+ Inspect an HTML page and identify which parts you want to scrape. Scrape web pages with requests and BeautifulSoup. Navigate Javascript elements with Selenium Judge when web scraping is the most suitable approach and what you should consider before doing so.  Link to Jupyter Notebook</description>
+    </item>
+    
+    <item>
+      <title>OECD R&amp;I conference | Tutorial on word2vec, t-SNE and Gaussian Mixtures</title>
+      <link>https://kstathou.github.io/talks/nlp-unsupervised-learning/</link>
+      <pubDate>Thu, 14 Mar 2019 09:08:39 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/nlp-unsupervised-learning/</guid>
+      <description>I presented this tutorial at an OECD Research and Innovation conference that was co-organised with Nesta. I focused on a practical application, namely how to cluster UK research projects to thematic topics using text data.
+I went through methods such as word2vec to create document vectors, t-SNE for dimensionality reduction and Gaussian Mixtures for fuzzy clustering.
+Link to Jupyter Notebook</description>
+    </item>
+    
+    <item>
       <title>Data science at Nesta</title>
       <link>https://kstathou.github.io/talks/nesta-data-science/</link>
       <pubDate>Thu, 28 Jun 2018 15:27:33 +0100</pubDate>
@@ -50,6 +71,34 @@ Link to video</description>
       <guid>https://kstathou.github.io/talks/nesta-data-science/</guid>
       <description>Presentation for the general public on how we use data science at Nesta.
 Link to video</description>
+    </item>
+    
+    <item>
+      <title>Data Science for scientometrics | Information retrieval for scientific texts</title>
+      <link>https://kstathou.github.io/talks/sussex-nlp/</link>
+      <pubDate>Tue, 05 Jun 2018 09:45:29 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/sussex-nlp/</guid>
+      <description>I presented my work on an information retrieval system for scientific texts at the Science Policy Research Unit of the University of Sussex. That system used word2vec for query expansion and filtered terms based on their IDF weight.</description>
+    </item>
+    
+    <item>
+      <title>Predicting EU innovation indicators using GitHub data</title>
+      <link>https://kstathou.github.io/talks/eis-nowcasting/</link>
+      <pubDate>Tue, 03 Apr 2018 09:56:24 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/eis-nowcasting/</guid>
+      <description>Presented my work on nowcasting European innovation indicators using GitHub data to the European Commission.
+For more details, read this post.</description>
+    </item>
+    
+    <item>
+      <title>Data for Policy conference | MSc Thesis: Exploring the UK business landscape with word embeddings and topic modelling</title>
+      <link>https://kstathou.github.io/talks/msc-thesis/</link>
+      <pubDate>Sat, 30 Sep 2017 09:59:59 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/msc-thesis/</guid>
+      <description>Presented my MSc Thesis project at the Data for Policy conference.</description>
     </item>
     
   </channel>
