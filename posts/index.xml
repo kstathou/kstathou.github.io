@@ -6,8 +6,32 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sun, 28 Jun 2020 16:43:34 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2020 13:17:51 +0100</lastBuildDate>
 		<atom:link href="https://kstathou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Prototype app: ACL conference explorer</title>
+			<link>https://kstathou.github.io/posts/acl-explorer/</link>
+			<pubDate>Mon, 06 Jul 2020 13:17:51 +0100</pubDate>
+			
+			<guid>https://kstathou.github.io/posts/acl-explorer/</guid>
+			<description>I made this app ahead of the ACL 2020 conference. It is intended for the visual exploration and discovery of research publications that have been presented at it.
+Every particle in the scatterplot is an academic publication. The particles are positioned in space based on the semantic similarity of the paper titles; the closer two points are, the more semantically similar their titles. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
+			<content type="html"><![CDATA[<p>I made this app ahead of the ACL 2020 conference. It is intended for the visual exploration and discovery of research publications that have been presented at it.</p>
+<p>Every particle in the scatterplot is an academic publication. The particles are positioned in space based on the semantic similarity of the paper titles; the closer two points are, the more semantically similar their titles. You can hover over the particles to read their titles and you can click them to be redirected to the original source. You can zoom in the visualisation by scrolling and you can reset the view by double clicking the white space within the figure. Regarding the bar chart, it shows the most used Fields of Study for the papers shown in the scatterplot.</p>
+<p>You can also search for publications by paper titles (more information below).</p>
+<h3 id="filters-">Filters</h3>
+<p>You can refine your query based on the publication year, paper content, field of study and author. You can also combine any of the filter for more granular searches.</p>
+<ul>
+<li>Filter by year: Select a time range for the papers. For example, drag both sliders to 2020 to find out the papers that will be presented at ACL 2020.</li>
+<li>Field of Study level: Microsoft Academic Graph uses a 6-level hierarchy where level 0 contains high level disciplines such as Computer science and level 5 contains the most granular paper keywords. This filter will change what&rsquo;s shown in the bar chart as well as the available options in the filter below.</li>
+<li>Fields of Study: Select the Fields of Study to be displayed in the visualisations. The available options are affected by your selection in the above filter.</li>
+<li>Search by author name: Find an author&rsquo;s publications. Note: You need to type in the exact name.</li>
+<li>Search by paper title: Type in a paper title and find its most relevant relevant publications. You should use at least a sentence to receive meaningful results.</li>
+<li>Number of search results: Specify the number of papers to be returned when you search by paper title.</li>
+</ul>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Orion: Web interface demo</title>

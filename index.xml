@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 16:43:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 13:17:51 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prototype app: ACL conference explorer</title>
+      <link>https://kstathou.github.io/posts/acl-explorer/</link>
+      <pubDate>Mon, 06 Jul 2020 13:17:51 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/posts/acl-explorer/</guid>
+      <description>I made this app ahead of the ACL 2020 conference. It is intended for the visual exploration and discovery of research publications that have been presented at it.
+Every particle in the scatterplot is an academic publication. The particles are positioned in space based on the semantic similarity of the paper titles; the closer two points are, the more semantically similar their titles. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
+    </item>
     
     <item>
       <title>Orion: Web interface demo</title>
@@ -97,16 +107,6 @@ Link to video</description>
       <guid>https://kstathou.github.io/talks/scinlp-orion/</guid>
       <description>Short presentation on Orion, an interactive information retrieval system for scientific texts that I am developing for Mozilla.
 Link to video</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence and the Fight Against COVID-19</title>
-      <link>https://kstathou.github.io/publications/ai-covid19/</link>
-      <pubDate>Mon, 15 Jun 2020 16:33:54 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/publications/ai-covid19/</guid>
-      <description>ArtificiaI intelligence (AI) techniques could play an important role in the mission to tackle COVID-19, from helping to discover new drugs and vaccines to predicting the spread of infection and testing patients. At the same time, many AI techniques are experimental, rely on big, sensitive datasets and might be difficult to apply in high-stakes domains such as health.
-This report studies the levels, evolution, geography, knowledge base and quality of AI research in the COVID-19 mission field using a novel dataset taken from open preprints sites arXiv, bioRxiv and medRxiv, which we have enriched with geographical, topical and citation data.</description>
     </item>
     
   </channel>
