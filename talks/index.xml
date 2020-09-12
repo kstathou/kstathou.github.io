@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 28 Jun 2020 15:53:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 15:55:45 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NetSci | Measuring research diversity with graph embeddings</title>
+      <link>https://kstathou.github.io/talks/netsci-poster/</link>
+      <pubDate>Sat, 12 Sep 2020 15:55:45 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/netsci-poster/</guid>
+      <description>My submission on a research diversity metric that uses node2vec was accepted for poster presentation at the NetSci 2020.
+Link to poster
+Link to abstract</description>
+    </item>
     
     <item>
       <title>IC2S2 | Tutorial on transformers, UMAP, Faiss and HDBSCAN</title>

@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 13:17:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 15:55:45 +0100</lastBuildDate>
     
 	<atom:link href="https://kstathou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NetSci | Measuring research diversity with graph embeddings</title>
+      <link>https://kstathou.github.io/talks/netsci-poster/</link>
+      <pubDate>Sat, 12 Sep 2020 15:55:45 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/netsci-poster/</guid>
+      <description>My submission on a research diversity metric that uses node2vec was accepted for poster presentation at the NetSci 2020.
+Link to poster
+Link to abstract</description>
+    </item>
     
     <item>
       <title>Prototype app: ACL conference explorer</title>
@@ -97,16 +108,6 @@ Link to video</description>
       
       <guid>https://kstathou.github.io/posts/ai-collective-intelligence/</guid>
       <description>AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.</description>
-    </item>
-    
-    <item>
-      <title>SciNLP | Orion: An interactive information retrieval system for scientific knowledge discovery</title>
-      <link>https://kstathou.github.io/talks/scinlp-orion/</link>
-      <pubDate>Tue, 16 Jun 2020 15:48:49 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/talks/scinlp-orion/</guid>
-      <description>Short presentation on Orion, an interactive information retrieval system for scientific texts that I am developing for Mozilla.
-Link to video</description>
     </item>
     
   </channel>
