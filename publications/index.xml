@@ -23,21 +23,12 @@ This report studies the levels, evolution, geography, knowledge base and quality
     </item>
     
     <item>
-      <title>A Closing of the Artificial Intelligence Field? Forthcoming paper at the Research Policy</title>
+      <title>A narrowing of AI research? Forthcoming paper at the Research Policy</title>
       <link>https://kstathou.github.io/publications/closing-of-ai/</link>
       <pubDate>Mon, 11 May 2020 16:48:22 +0100</pubDate>
       
       <guid>https://kstathou.github.io/publications/closing-of-ai/</guid>
-      <description>Extended abstract</description>
-    </item>
-    
-    <item>
-      <title>Privatization of AI: Forthcoming paper at the Research Policy</title>
-      <link>https://kstathou.github.io/publications/privatization-of-ai/</link>
-      <pubDate>Sun, 10 May 2020 16:47:17 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/publications/privatization-of-ai/</guid>
-      <description></description>
+      <description>Link to arXiv paper</description>
     </item>
     
     <item>
@@ -105,6 +96,16 @@ Download PDF here</description>
       
       <guid>https://kstathou.github.io/publications/invisible-college/</guid>
       <description>Innovation policymakers need timely, detailed data about scientific research trends and networks to monitor their evolution and put in place suitable strategies to support them. We have analysed the Gateway to Research, an open dataset about research funding and university-industry collaborations in the UK in a project to map innovation in Wales. We use supervised learning and Natural Language Processing to improve data coverage and measure activity in research topics, build a recommendation engine to identify new opportunities for collaboration in the Welsh innovation system, and present the results through interactive visualisations.</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis | Mapping without a map: Exploring the UK business landscape using unsupervised learning</title>
+      <link>https://kstathou.github.io/publications/mapping-without-a-map/</link>
+      <pubDate>Thu, 17 Aug 2017 16:07:35 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/publications/mapping-without-a-map/</guid>
+      <description>That was my MSc Thesis project which I presented at the Data for Policy conference in 2017.
+Policy interventions have to be timely and tailored to specific sectors of the economic ecosystem to maximise their potential impact. We propose a system based on open data that offers policy makers two capabilities. First, it enables them to explore the digital and tech company space with high granularity through keywords, specific technologies or company names, and identify relevant organisations and those most similar to them.</description>
     </item>
     
   </channel>

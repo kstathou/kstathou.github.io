@@ -24,12 +24,22 @@ Link to abstract</description>
     </item>
     
     <item>
+      <title>WOOC | Orion: A research measurement and knowledge discovery tool for scholarly publications</title>
+      <link>https://kstathou.github.io/talks/wooc-orion/</link>
+      <pubDate>Tue, 01 Sep 2020 15:55:45 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/wooc-orion/</guid>
+      <description>I presented Orion at the 2nd Workshop on Open Citations and Open Scholarly Metadata 2020.
+Link to video</description>
+    </item>
+    
+    <item>
       <title>Prototype app: ACL conference explorer</title>
       <link>https://kstathou.github.io/posts/acl-explorer/</link>
       <pubDate>Mon, 06 Jul 2020 13:17:51 +0100</pubDate>
       
       <guid>https://kstathou.github.io/posts/acl-explorer/</guid>
-      <description>I made this app ahead of the ACL 2020 conference. It is intended for the visual exploration and discovery of research publications that have been presented at it.
+      <description>I made this app ahead of the ACL 2020 conference (link to video). It is intended for the visual exploration and discovery of research publications that have been presented at it.
 Every particle in the scatterplot is an academic publication. The particles are positioned in space based on the semantic similarity of the paper titles; the closer two points are, the more semantically similar their titles. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
     </item>
     
@@ -78,8 +88,8 @@ Link to video</description>
       
       <guid>https://kstathou.github.io/about/</guid>
       <description>Hi, I am Kostas!
-I am a Mozilla Open Science Fellow and a Principal Researcher (Data Science) at Nesta, a UK-based non-profit research institute. I work at the intersection of information retrieval, data engineering and scientometrics. I enjoy developing tools that help policymakers take evidence-based decisions and users navigate information systems.
-I am currently working on Orion, a knowledge discovery and research measurement tool. I am spending most of my time on developing:</description>
+I work at the intersection of machine learning, natural language processing and data engineering. I am currently working as an NLP Engineer at Util, mainly focused on information extraction.
+Before that, I spent a year at Mozilla as a Machine Learning Engineer and Open Science Fellow. I developed Orion, a knowledge discovery and research measurement platform for scientific documents. It&amp;rsquo;s open source! I&amp;rsquo;ve also worked at Nesta as a Senior Data Scientist.</description>
     </item>
     
     <item>
@@ -99,15 +109,6 @@ Link to video</description>
       
       <guid>https://kstathou.github.io/posts/misinformation-explorer/</guid>
       <description>This application is intended for visual exploration and discovery of research publications on misinformation, disinformation and fake news. Every particle in the visualisation is an academic publication. The particles are positioned in space based on the semantic similarity of the paper abstracts; the closer two points are, the more semantically similar their abstracts. You can hover over the particles to read their titles and you can click them to be redirected to the original source.</description>
-    </item>
-    
-    <item>
-      <title>Is AI causing collective intelligence research to become less diverse?</title>
-      <link>https://kstathou.github.io/posts/ai-collective-intelligence/</link>
-      <pubDate>Tue, 16 Jun 2020 16:29:14 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/posts/ai-collective-intelligence/</guid>
-      <description>AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.</description>
     </item>
     
   </channel>

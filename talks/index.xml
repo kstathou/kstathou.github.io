@@ -24,6 +24,16 @@ Link to abstract</description>
     </item>
     
     <item>
+      <title>WOOC | Orion: A research measurement and knowledge discovery tool for scholarly publications</title>
+      <link>https://kstathou.github.io/talks/wooc-orion/</link>
+      <pubDate>Tue, 01 Sep 2020 15:55:45 +0100</pubDate>
+      
+      <guid>https://kstathou.github.io/talks/wooc-orion/</guid>
+      <description>I presented Orion at the 2nd Workshop on Open Citations and Open Scholarly Metadata 2020.
+Link to video</description>
+    </item>
+    
+    <item>
       <title>IC2S2 | Tutorial on transformers, UMAP, Faiss and HDBSCAN</title>
       <link>https://kstathou.github.io/talks/ic2s2-tutorial-text-embeddings/</link>
       <pubDate>Sun, 28 Jun 2020 15:53:00 +0100</pubDate>
@@ -101,15 +111,6 @@ Link to video</description>
       <guid>https://kstathou.github.io/talks/eis-nowcasting/</guid>
       <description>Presented my work on nowcasting European innovation indicators using GitHub data to the European Commission.
 For more details, read this post.</description>
-    </item>
-    
-    <item>
-      <title>Data for Policy conference | MSc Thesis: Exploring the UK business landscape with word embeddings and topic modelling</title>
-      <link>https://kstathou.github.io/talks/msc-thesis/</link>
-      <pubDate>Sat, 30 Sep 2017 09:59:59 +0100</pubDate>
-      
-      <guid>https://kstathou.github.io/talks/msc-thesis/</guid>
-      <description>Presented my MSc Thesis project at the Data for Policy conference.</description>
     </item>
     
   </channel>
