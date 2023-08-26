@@ -14,4 +14,4 @@ Before Util, I was an **Open Science Fellow** at [Mozilla](https://www.mozilla.o
 
 Born in Athens, Greece, I hold a BSc in Economics, an MSc in Data Science and a black belt in Kung Fu.
 
-I am passionate about **open science**, **data engineering**, **machine learning** and **large language models**. Get in touch if you would like to chat! 
+I am passionate about **open science**, **data engineering**, **machine learning** and **large language models**. Get in touch if you would like to chat!
