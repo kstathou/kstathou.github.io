@@ -1,4 +1,4 @@
-baseURL = "kstathou.github.io"
+baseURL = "https://kstathou.github.io/"
 title = "Kostas Stathoulopoulos"
 theme = "hugo-coder"
 languageCode = "en"
