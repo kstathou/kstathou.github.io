@@ -1,0 +1,10 @@
+.youtube-iframe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.youtube-iframe-container iframe {
+    margin: 0 auto;
+    /* This centers the iframe horizontally inside the container */
+}
