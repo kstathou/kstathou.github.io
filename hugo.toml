@@ -32,7 +32,7 @@ rtl = false
 # "light" (light background, dark foreground) (default)
 colorScheme = "light"
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
@@ -155,16 +155,21 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Work"
 weight = 2
-url = "posts/"
+url = "projects/"
+
+# [[languages.en.menu.main]]
+# name = "Projects"
+# weight = 3
+# url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Research"
 weight = 3
-url = "projects/"
+url = "publications/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 4
 url = "contact/"
