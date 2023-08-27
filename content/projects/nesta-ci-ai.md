@@ -1,13 +1,13 @@
 +++
 authors = ["Kostas Stathoulopoulos"]
-title = "Is AI causing collective intelligence research to become less diverse?"
+title = "Predicting the size and turnover of UK's Immersive Economy"
 date = "2020-06-16"
-description = "Research diversity in collective intelligence"
-tags = ["collective-intelligence", "scientometrics"]
+description = "Predicting the size and turnover of UK's Immersive Economy"
+tags = ["data-science"]
 categories = []
 series = []
 +++
 
-AI is increasingly being used within collective intelligence research and practice. Our analysis of almost 40,000 research articles published in the last 20 years reveals the trends in this fast growing field. Research at the crossover between the fields shows little topic diversity or disciplinary breadth and this may be having a spillover effect on non-AI collective intelligence research. We also find that industry and, increasingly, China are setting the trajectory.
+In this report, done for the Innovate UK, I combined survey data with text data from company websites to predict the number of employees and turnover of UK’s immersive economy companies.
 
-Read the full post on [Nesta’s website](https://www.nesta.org.uk/project-updates/ai-ci-researchmapping/).
+Read the full report [here](https://drive.google.com/file/d/10bqvoZFr59_s6bhG785bTMiBxqlwlke_/view?usp=sharing).
