@@ -1,7 +1,7 @@
 +++
 authors = ["Kostas Stathoulopoulos"]
 title = "Predicting the size and turnover of UK's Immersive Economy"
-date = "2020-06-16"
+date = "2018-05-16"
 description = "Predicting the size and turnover of UK's Immersive Economy"
 tags = ["data-science"]
 categories = []
