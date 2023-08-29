@@ -6,4 +6,5 @@ aliases = ["cv"]
 author = "Kostas Stathoulopoulos"
 +++
 
-{{< googlePdfReader "1PV6_mw1BThPes-2qrf3vF4m22wfdA4nk" "CV" >}}
+{{< pdfReader "Kostas_Stathoulopoulos_CV.pdf" >}}
+<!-- {{< googlePdfReader "1PV6_mw1BThPes-2qrf3vF4m22wfdA4nk" "mytitle" >}} -->
